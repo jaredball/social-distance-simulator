@@ -1,3 +1,5 @@
+% Replace this comment with any example located in the instances folder
+
 % Cell Range
 cell(X,Y) :- X=0..n1, Y=0..n2.
 
