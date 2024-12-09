@@ -7,4 +7,4 @@ p(4,19).
 p(13,7).
 p(20,4).
 
-% Many solutions - too long to list
+% Many answers - too long to list
